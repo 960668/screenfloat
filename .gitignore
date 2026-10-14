@@ -1,0 +1,28 @@
+# 虚拟环境（1.3G，不入库）
+.venv/
+venv/
+
+# 打包产物（502M，由 build_app.sh 生成）
+dist/
+*.app/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 打包脚本生成的图标缓存
+*.iconset/
+
+# macOS
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 日志与本地配置（含用户路径，不应入库）
+*.log
+screenfloat.config.json
