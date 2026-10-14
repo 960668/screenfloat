@@ -20,7 +20,7 @@ macOS · Python 3.13 · PySide6
 ## 安装
 
 ```bash
-git clone https://github.com/<你的用户名>/screenfloat.git
+git clone https://github.com/960668/screenfloat.git
 cd screenfloat
 
 python3 -m venv .venv
